@@ -1,19 +1,19 @@
-# Amazon_Clone
+# 🛒 Amazon_Clone
 This is a responsive Amazon homepage clone built using HTML and CSS. The project mimics the layout and design of the official Amazon website, featuring a navigation bar, search functionality, product category boxes, and footer sections. It’s a great demonstration of front-end web development skills using only HTML and CSS.
 
-**Technologies Used**
+**💻 Technologies Used**
 HTML5 – For page structure and layout
 CSS3 – For styling, hover effects, layout design
 Font Awesome – For icons like cart, menu, and location
 
-**Project Structure**
+**🗂️ Project Structure**
 Amazon-Clone/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # CSS styles
 ├── /images            # (Assumed) Folder with images like Amazon logo, hero image, etc.
 
- **Assets You’ll Need**
+ **📁 Assets You’ll Need**
 To run this project locally as expected, make sure the following images are present in your project folder:
 Amazon_logo.png
 hero_image.jpg
